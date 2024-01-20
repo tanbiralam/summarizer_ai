@@ -1,7 +1,7 @@
 
 # Sumz: Article Summarizer with OpenAI GPT-4
 
-Sumzis a web application designed to simplify your reading experience by providing concise summaries for lengthy articles. It utilizes the powerful OpenAI GPT-4 to generate accurate and coherent summaries.
+Sumz is a web application designed to simplify your reading experience by providing concise summaries for lengthy articles. It utilizes the powerful OpenAI GPT-4 to generate accurate and coherent summaries.
 
 ## Features
 
