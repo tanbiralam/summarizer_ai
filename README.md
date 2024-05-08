@@ -43,9 +43,9 @@ Before running the application, ensure you have the following installed:
 
 ### API Key
 
-To use Summize, you need to obtain an API key for the OpenAI GPT-4 API. Follow the instructions on the [OpenAI website](https://www.openai.com/) to obtain your API key. Once obtained, set the key in the `src/services/article.js` file.
+To use Summize, you need to obtain an API key from RAPIDAPI. Follow the instructions on the [Article SUmmariser](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) to obtain your API key. Once obtained, set the key in the `src/services/article.js` file.
 
-`const rapidApiKey = '<YOUR_OPENAI_API_KEY>';`
+`const rapidApiKey = '<YOUR_RAPID_API_KEY>';`
 
 ## Project Structure
 
